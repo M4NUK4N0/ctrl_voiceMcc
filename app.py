@@ -29,7 +29,7 @@ client1.on_message = on_message
 
 
 st.title("INTERFACES MULTIMODALES")
-st.subheader("CONTROL POR VOZ")
+st.subheader("HABLA PARA CONTROLAR")
 
 image = Image.open('Darwin pp.jpeg')
 
